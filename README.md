@@ -1,16 +1,16 @@
-## Hi there 👋
+# Howdy 🤠
 
-<!--
-**RichDouglas801/RichDouglas801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **RichDouglas801**, a full-stack developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 Exploring new technologies
+- 📫 Reach me through GitHub
+
+## Tech
+
+`Axum` `Kafka` `FastAPI` `Phoenix` `Deno`
+
+---
+
+_Bash works fine._
